@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mohit-portfolio/static/css/main.593e2f26.css",
-    "main.js": "/Mohit-portfolio/static/js/main.94b4cd33.js",
+    "main.js": "/Mohit-portfolio/static/js/main.926cbd95.js",
     "static/media/bookshare.png": "/Mohit-portfolio/static/media/bookshare.600322ae6ea06de84fb9.png",
     "static/media/portfolio.png": "/Mohit-portfolio/static/media/portfolio.0709ed9aab27d79706b5.png",
     "static/media/zomzee.png": "/Mohit-portfolio/static/media/zomzee.ab6b99f07db81bc062fb.png",
@@ -13,14 +13,14 @@
     "static/media/elms.png": "/Mohit-portfolio/static/media/elms.403364b1e55361bda8a1.png",
     "static/media/main.png": "/Mohit-portfolio/static/media/main.e7ad7c9017b3eb6e43da.png",
     "static/media/f.png": "/Mohit-portfolio/static/media/f.a055f11e1ff436de3dc6.png",
-    "static/media/mohit.pdf": "/Mohit-portfolio/static/media/mohit.855c470940e10467848e.pdf",
+    "static/media/ms.pdf": "/Mohit-portfolio/static/media/ms.327ce063c23b8c22fa3c.pdf",
     "static/media/bg.jpg": "/Mohit-portfolio/static/media/bg.dc8192043e72bd13464b.jpg",
     "index.html": "/Mohit-portfolio/index.html",
     "main.593e2f26.css.map": "/Mohit-portfolio/static/css/main.593e2f26.css.map",
-    "main.94b4cd33.js.map": "/Mohit-portfolio/static/js/main.94b4cd33.js.map"
+    "main.926cbd95.js.map": "/Mohit-portfolio/static/js/main.926cbd95.js.map"
   },
   "entrypoints": [
     "static/css/main.593e2f26.css",
-    "static/js/main.94b4cd33.js"
+    "static/js/main.926cbd95.js"
   ]
 }
